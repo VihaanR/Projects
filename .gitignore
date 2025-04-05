@@ -1,0 +1,50 @@
+# ========= Windows-specific =========
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ========= macOS junk (just in case you switch) =========
+.DS_Store
+
+# ========= VS Code =========
+.vscode/
+*.code-workspace
+
+# ========= Python (for Learn/ml_bootcamp) =========
+__pycache__/
+*.py[cod]
+*.pyo
+*.ipynb_checkpoints
+env/
+venv/
+ENV/
+
+# ========= Node.js (for Portfolio) =========
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# ========= General Temporary/Backup Files =========
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.~    # backup files
+
+# ========= Compressed/Exported =========
+*.zip
+*.tar
+*.gz
+*.rar
+*.7z
+
+# ========= System-generated folders =========
+.idea/
+*.iml
+*.sublime-*
+
+
